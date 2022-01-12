@@ -1,5 +1,5 @@
 - 🖖 Hi, I’m [@sanpresario](https://github.com/sanpresario).
-- 🧭 I’m interested in geospatial analysis related to climate, epidemiology, and wealth inequality.
+- 🧭 I’m interested in geospatial analysis related to climate change, epidemiology, and wealth inequality.
 - 🐍 I’m currently learning R & Python.
 - 🖇 I’m looking to collaborate on projects that clarify complex issues and advance public policy.
 - 🦤 Follow me on twitter at [@sanpresario](https://twitter.com/sanpresario) for sporadic updates.
